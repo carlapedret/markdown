@@ -10,3 +10,5 @@ Bullet lists use an asterisk at the start of the line followed by a space like s
 > A greater than operator will create an indent at the start of the line. Multiple greater than operators will create bigger indents.
 
 `this will make stuff look like code`
+
+![This is a caption to the image in the parentheses](https://raw.githubusercontent.com/BBC-Data-Unit/libraries/master/libraryfacts1.jpg)
